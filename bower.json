@@ -1,0 +1,21 @@
+{
+  "name": "glsl_raytracer",
+  "version": "0.0.1",
+  "authors": [
+    { "name": "Roberto Pesando", "homepage": "http://psicomante.net" },
+    { "name": "Ruben Caliandro", "homepage": "http://chosko.com" }
+  ],
+  "description": "A simple raytracer made with GLSL",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webglass": "git@github.com:Webglassers/webglass.git#develop"
+  }
+}
