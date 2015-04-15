@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "webglass": "git@github.com:Webglassers/webglass.git#develop"
+    "webglass": "git@github.com:psicomante/webglass.git#develop"
   }
 }
